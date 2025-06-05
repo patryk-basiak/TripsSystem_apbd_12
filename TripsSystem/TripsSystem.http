@@ -1,0 +1,6 @@
+@TripsSystem_HostAddress = http://localhost:5206
+
+GET {{TripsSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
